@@ -36,7 +36,7 @@ Faite la même chose pour .db.env.example si vous utilisez docker.
 
 
 Assurez-vous de personnaliser les valeurs des variables d'environnement en fonction de votre configuration.
-Créer la base de données sous postgres en fonction des configuration du .env
+Créer la base de données sous postgres en fonction des configurations du .env
 
 5. Lancez l'application :
 
